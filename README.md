@@ -34,7 +34,7 @@ Swift array extension to generate combinations and permutations.
 
 ## Credit 
 
-The code was translated from scala code by http://vkostyukov.ru/posts/combinatorial-algorithms-in-scala/
+The code was translated from scala code available at  http://vkostyukov.ru/posts/combinatorial-algorithms-in-scala/
 
 <psksvp@gmail.com>
 
