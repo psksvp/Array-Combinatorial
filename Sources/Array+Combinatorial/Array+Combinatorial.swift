@@ -11,7 +11,7 @@ import Foundation
  translate from Scala by psksvp@gmail.com
  http://vkostyukov.ru/posts/combinatorial-algorithms-in-scala/
  */
-extension Array
+extension Collection//Array
 {
   func combinations(_ n: Int) -> [[Element]]
   {
