@@ -1,3 +1,7 @@
+**This repo is archived. Please use swift algorithm. It's better, it lazily enumuated the seq.**
+
+https://github.com/apple/swift-algorithms
+
 # Array+Combinatorial
 
 
